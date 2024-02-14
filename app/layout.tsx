@@ -4,7 +4,7 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Travel Window",
+  title: "Cabut : Travel Window",
   description: "Travel Window for refrence your needed places",
 };
 
